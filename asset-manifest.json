@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zuddl-Task/static/css/main.cf3ef6cf.css",
+    "main.js": "/Zuddl-Task/static/js/main.6a8ddc3b.js",
+    "static/js/787.941d32dc.chunk.js": "/Zuddl-Task/static/js/787.941d32dc.chunk.js",
+    "index.html": "/Zuddl-Task/index.html",
+    "main.cf3ef6cf.css.map": "/Zuddl-Task/static/css/main.cf3ef6cf.css.map",
+    "main.6a8ddc3b.js.map": "/Zuddl-Task/static/js/main.6a8ddc3b.js.map",
+    "787.941d32dc.chunk.js.map": "/Zuddl-Task/static/js/787.941d32dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3ef6cf.css",
+    "static/js/main.6a8ddc3b.js"
+  ]
+}

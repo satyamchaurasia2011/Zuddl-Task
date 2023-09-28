@@ -1,0 +1,171 @@
+[
+    {
+        "id" : 1,
+        "stageName" : "Resources",
+        "tasks" : [
+            {
+                "title" : "Financials & Growth Data",
+                "description" : "ef dfdf",
+                "links" : ["1","2","3","4","5"],
+                "image" : "https://image.cnbcfm.com/api/v1/image/107015122-1644867294036-gettyimages-1228138964-AFP_1WN4WV.jpeg?v=1644867360&w=1600&h=900",
+                "assignedToUser" : "",
+                "deadline" : ""
+            },
+            {
+                "title" : "Financials & Growth Data",
+                "description" : "sd ssbdfs sbdj",
+                "links" : ["1","2"],
+                "image" : "",
+                "assignedToUser" : "",
+                "deadline" : ""
+            },
+            {
+                "title" : "Financials & Growth Data",
+                "description" : "dsd sds dsds ",
+                "links" : ["1"],
+                "image" : "",
+                "assignedToUser" : "",
+                "deadline" : ""
+            },
+            {
+                "title" : "Financials & Growth Data",
+                "description" : "dfdf dfdf",
+                "links" : ["1"],
+                "image" : "",
+                "assignedToUser" : "",
+                "deadline" : ""
+            }
+        ]
+    },
+    {
+        "id" : 2,
+        "stageName" : "To Do",
+        "tasks" : [
+            {
+                "title" : "Build A Better Burrito: 7 Layers To Success",
+                "description" : "Better burritos tips",
+                "links" : [],
+                "image" : "",
+                "assignedToUser" : "https://expertphotography.b-cdn.net/wp-content/uploads/2018/10/cool-profile-picture-natural-light.jpg",
+                "deadline" : "",
+                "subtask" : {
+                    "total" : "7",
+                    "completed" : "0"
+                }
+            },
+            {
+                "title" : "Nacho Ordinary Birthday - Event Space Rentals",
+                "description" : "wew we we",
+                "links" : [],
+                "image" : "",
+                "assignedToUser" : "https://images.unsplash.com/photo-1566369321978-1da2558f1954?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8&w=1000&q=80",
+                "deadline" : ""
+            },
+            {
+                "title" : "Taco Drone Delivery Service",
+                "description" : "",
+                "links" : ["1","2","3"],
+                "image" : "https://s36737.pcdn.co/wp-content/uploads/2016/10/Drone-carrying-tacos.jpg",
+                "assignedToUser" : "https://expertphotography.b-cdn.net/wp-content/uploads/2018/10/cool-profile-picture-natural-light.jpg",
+                "deadline" : "Nov 10"
+            },
+            {
+                "title" : "Superbowl Ad - \"Super Salad Bowls\"",
+                "description" : "dsdsdsj  sjdfj",
+                "links" : [],
+                "image" : "",
+                "assignedToUser" : "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHByb2ZpbGUlMjBwaG90b3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+                "deadline" : "Dec 12"
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "stageName" : "Doing",
+        "tasks" : [
+            {
+                "title" : "The Taco Truck World Tour",
+                "description" : "The Tour is amazing",
+                "links" : [],
+                "image" : "",
+                "assignedToUser" : "https://img.freepik.com/premium-photo/young-man-white-shirt-posing-front-gray-backgrounds-with-generative-ai_1375-15235.jpg",
+                "deadline" : "Oct 5"
+            },
+            {
+                "title" : "Operation \"Awesome Sauce\" - A Recipe For Profit",
+                "description" : "Awesome sauce",
+                "links" : ["1","2", "3"],
+                "image" : "https://img.freepik.com/premium-vector/taco-cute-character-cartoon-food-illustration_514289-57.jpg?w=2000",
+                "assignedToUser" : "https://img.freepik.com/premium-photo/confident-handsome-man-with-arms-crossed-body-smiling-looking-determined-generative-ai_947762-995.jpg",
+                "deadline" : "Oct 18",
+                "subtask" : {
+                    "total" : "5",
+                    "completed" : "2"
+                }
+            },
+            {
+                "title" : "#NoFiller Instagram Campaign",
+                "description" : "",
+                "links" : ["1","2","3"],
+                "image" : "",
+                "assignedToUser" : "https://img.freepik.com/premium-photo/cropped-portrait-handsome-young-male-designer-created-with-generative-ai_762026-50444.jpg",
+                "deadline" : ""
+            },
+            {
+                "title" : "Global Franchise Opportunities",
+                "description" : "many opportunities",
+                "links" : [],
+                "image" : "",
+                "assignedToUser" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeIbNj_uhKhkcNRrEmskPFze2VlupHqSA20-dZggtyzGBZy2vVHdBzZrgvtRXC2QLiHK4&usqp=CAU",
+                "deadline" : "",
+                "subtask" : {
+                    "total" : "9",
+                    "completed" : "4"
+                }
+            }
+        ]
+    },
+    {
+        "id" : 4,
+        "stageName" : "Done",
+        "tasks" : [
+            {
+                "title" : "Focus Group: Corn vs. Flour Tortillas",
+                "description" : "abc df fd fd",
+                "links" : [],
+                "image" : "",
+                "assignedToUser" : "https://img.freepik.com/free-photo/man-posing-while-holding-shirt-collar_23-2148364745.jpg?w=2000",
+                "deadline" : ""
+            },
+            {
+                "title" : "New Swag: Socks, Scarves & Salsa",
+                "description" : "",
+                "links" : ["1", "2", "3", "4", "5"],
+                "image" : "",
+                "assignedToUser" : "https://img.freepik.com/free-photo/seductive-male-posing-shirt_23-2148252970.jpg?w=360",
+                "deadline" : ""
+            },
+            {
+                "title" : "Eco Friendly Utensils & Napkins",
+                "description" : "",
+                "links" : [],
+                "image" : "",
+                "assignedToUser" : "https://img.freepik.com/free-photo/seductive-male-posing-shirt_23-2148252970.jpg?w=360",
+                "deadline" : "",
+                "subtask" : {
+                    "total" : "3",
+                    "completed" : "3"
+                }
+            },
+            {
+                "title" : "Grand Opening Celebration",
+                "description" : "",
+                "links" : [],
+                "image" : "https://img.pikbest.com/backgrounds/20210803/cartoon-fashion-grand-opening-cut-color-web-banner_6076492.jpg!sw800",
+                "assignedToUser" : "",
+                "deadline" : "",
+                "date" : "Aug 11, 2016"
+            }
+        ]
+    }
+]

@@ -2,7 +2,7 @@
 
 ### How would your tables and apis change for the following scenarios. What tables and api endpoints would you add? Which tables and api endpoints would need to be updated?
 
-#### Q1 If a user can create and edit stages for a particular board. For example instead of Open > In Progress > Done if they want the stages of their task board to be Read > Working > Reviewing > Completed
+## Q1 If a user can create and edit stages for a particular board. For example instead of Open > In Progress > Done if they want the stages of their task board to be Read > Working > Reviewing > Completed
 - Table needed : Stage (`userId`,`stageType`,`allTasks`,`stagesOrder`) -> We need to add a stages property to each board to store the customized stage order and names.
 - We have to create an API endpoint that fetch and update the stages for a specific board.
 - The endpoint should support adding, editing, and deleting stages.

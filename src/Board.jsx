@@ -9,7 +9,7 @@ function Board() {
       .then((data) => setData(data));
   }, []);
   return (
-    <div className="flex justify-start overflow-auto px-4 mt-6 gap-5 text-black">
+    <div className="flex justify-start overflow-x-auto px-4 mt-6 gap-5 text-black">
         {
             data?.map(stage => {
                 return <Stage
